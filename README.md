@@ -31,7 +31,7 @@ Olá! Eu sou André Fragata Zanini, um entusiasta de tecnologia e desenvolvedor 
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -56,10 +56,12 @@ Olá! Eu sou André Fragata Zanini, um entusiasta de tecnologia e desenvolvedor 
 
 ###
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=andre-fragata&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="andre-fragata's Stats" /> <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fragata&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=andre-fragata&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="andre-fragata's Stats" style="display: inline-block; vertical-align: top; width: 49%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fragata&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" style="display: inline-block; vertical-align: top; width: 37%;" />
 </div>
+
+
 
 
 
