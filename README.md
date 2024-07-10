@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=andre-fragata.andre-fragata&"  />
 </div>
 
 ###
@@ -62,7 +62,7 @@
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=andre-fragata&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="andre-fragata's Stats" /> <br>
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fragata&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andre-fragata&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" />
 </div>
 
 
