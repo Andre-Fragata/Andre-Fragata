@@ -19,11 +19,15 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<p align="left">
+Olá! Eu sou André Fragata Zanini, um entusiasta de tecnologia e desenvolvedor apaixonado por criar soluções inovadoras e eficientes. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (ADS), onde estou aprofundando meus conhecimentos em desenvolvimento de software e sistemas.
+<br><br>
+- 🔭 Estou desenvolvendo um projeto pessoal que consiste em um blog e um portfólio, utilizando React e TypeScript para o front-end e Java para o back-end.
+<br>
+- 🌱 Sou um entusiasta de Linux, sempre explorando novas distribuições e ferramentas open-source.
+<br>
+- 🔒 Tenho um grande interesse em cibersegurança, constantemente aprendendo sobre práticas de segurança, pentesting e proteção de sistemas e redes.
+<br>
 
 ###
 
